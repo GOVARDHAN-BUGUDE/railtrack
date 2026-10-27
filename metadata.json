@@ -1,0 +1,6 @@
+{
+  "name": "RailTrack - Train Tracking & Booking",
+  "description": "Real-time train tracking by train number and seat booking system with dynamic availability across Sleeper, 3A, 2A, and 1A classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
